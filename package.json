@@ -1,8 +1,8 @@
 {
-    "name": "sick-fits-backend",
+    "name": "cool-tree-backend",
     "version": "2.0.0",
     "private": true,
-    "author": "Wes Bos",
+    "author": "Minh Nguyen",
     "license": "MIT",
     "scripts": {
       "dev": "keystone-next",
